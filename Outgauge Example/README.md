@@ -2,6 +2,8 @@
 
 A lil python script that is basically another web dash on port 8080, a jumping-off point for how to use the API.
 
+<img width="600" alt="outgaugeexample" src="https://github.com/user-attachments/assets/8fde0ece-570c-4944-862f-d7c270faffa7" />
+
 ## How to test it
 
 Run the script how you please (Thonny, CMD, whatever) on your CarX computer.
