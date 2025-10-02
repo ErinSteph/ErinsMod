@@ -1,9 +1,5 @@
 # ErinsMod
-<<<<<<< HEAD
-### Public Beta
-=======
-### Beta 0.1.3
->>>>>>> b8b2ee97e1e2393401b366e56d6f97fdc175497a
+### Public Beta 
 
 Some tools for sim drivers, streamers, and everyone else too!
 
