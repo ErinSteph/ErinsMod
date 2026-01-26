@@ -18,6 +18,6 @@ Your phone, tablet, laptop, or any network device is now an external dashboard. 
 
 ## Outgauge API
 
-Live local endpoints for both binary and JSON data.
+Live local network endpoints for both binary and JSON data.
 
 <img width="500" alt="outgaugelive" src="https://github.com/user-attachments/assets/32eaca18-6eec-4045-8a9e-034ed05dc253" />
