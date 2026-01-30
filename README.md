@@ -3,6 +3,10 @@
 
 Some tools for sim drivers, streamers, and everyone else too!
 
+Requires [KSL mod loader.](https://github.com/trbflxr/ksl/blob/master/doc/guide/install_win.md).
+
+Add to KSL via the built-in Mod DB or [manually](https://github.com/trbflxr/ksl/blob/master/doc/guide/install_content.md).
+
 ## Live Chase Drone
 
 A live, on-screen drone, with different levels of AI and dynamics to choose from.
