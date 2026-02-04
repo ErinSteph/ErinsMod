@@ -1,6 +1,8 @@
 # ErinsMod
 ### Public Beta 
 
+<img src="https://api.driftcatclique.pro/em_count_i" />
+
 Some tools for sim drivers, streamers, and everyone else too!
 
 Requires [KSL mod loader.](https://github.com/trbflxr/ksl/blob/master/doc/guide/install_win.md).
