@@ -1,4 +1,6 @@
-# ErinsMod Stream Widgets
+# ErinsMod OBS Stream Widgets
+
+<img width="412" height="361" alt="Screenshot 2026-02-16 at 16 24 22" src="https://github.com/user-attachments/assets/164be3f9-8e56-4e0d-a0c5-29c6f81e7f4e" />
 
 I was considering making an OBS plugin for ErinsMod, but, I noticed OBS has an internal browser source, and a plugin was totally unnecessary!
 
@@ -26,8 +28,8 @@ I was considering making an OBS plugin for ErinsMod, but, I noticed OBS has an i
 
 <img src="https://github.com/ErinSteph/ErinsMod/blob/main/Stream%20Widgets/add_settings.png?raw=true" />
 
+Note: set "Refresh browser when scene becomes active". If you start OBS before CarX and don't switch scene, the widgets may still not activate, just select the widget in sources and hit refresh. If it's still not visible, load onto track; you may have just set it to hide when no data is available!
+
 ## Done!
 
-Now you can set it up how you like it :)
-
-<img src="https://github.com/ErinSteph/ErinsMod/blob/main/Stream%20Widgets/obs_widgets.png?raw=true" />
+Now you can arrange them how you like it :)
