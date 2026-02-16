@@ -1,9 +1,12 @@
 # ErinsMod
-### Public Beta 
 
 <img src="https://api.driftcatclique.pro/em_count_i" />
 
 Some tools for sim drivers, streamers, and everyone else too!
+
+Including live on-screen chase drone, local network telemetry APIs, OBS streaming widgets, extensions to turn your phone browser into a dashboard, and more!
+
+<img width="500" alt="Screenshot 2026-02-16 at 17 56 07" src="https://github.com/user-attachments/assets/2edbd665-7b5e-4cd2-9c26-a63c68549e32" />
 
 Requires [KSL mod loader.](https://github.com/trbflxr/ksl/blob/master/doc/guide/install_win.md).
 
